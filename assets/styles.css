@@ -68,7 +68,7 @@ body {
 .header-booking.glow-button {
     position: relative;
     overflow: visible;
-    box-shadow: 0 0 15px 2px rgba(94, 22, 234, 0.3);
+    box-shadow: 0 0 5px 1px rgba(94, 22, 234, 0.1);
     transition: all 0.3s ease;
     z-index: 1;
     display: flex;
@@ -97,7 +97,7 @@ body {
 
 .header-booking.glow-button:hover {
     transform: translateY(-3px);
-    box-shadow: 0 0 25px 8px rgba(94, 22, 234, 0.5);
+    box-shadow: 0 0 8px 3px rgba(94, 22, 234, 0.15);
     background: #5e16ea;
 }
 
@@ -109,8 +109,8 @@ body {
     height: 20px;
     transform: translateX(-50%);
     background: #5e16ea;
-    filter: blur(15px);
-    opacity: 0.6;
+    filter: blur(5px);
+    opacity: 0.2;
     z-index: -1;
     transition: all 0.3s ease;
 }
@@ -123,23 +123,23 @@ body {
     height: 12px;
     transform: translateX(-50%);
     background: #7a42f5;
-    filter: blur(15px);
-    opacity: 0.4;
+    filter: blur(5px);
+    opacity: 0.12;
     z-index: -2;
     transition: all 0.3s ease;
 }
 
 .header-booking.glow-button:hover .button-aura-1 {
-    opacity: 0.8;
+    opacity: 0.24;
     bottom: -12px;
-    filter: blur(18px);
+    filter: blur(6px);
 }
 
 .header-booking.glow-button:hover .button-aura-2 {
-    opacity: 0.6;
+    opacity: 0.18;
     bottom: -18px;
     width: 85%;
-    filter: blur(18px);
+    filter: blur(6px);
 }
 
 /* Main Content */
@@ -216,7 +216,7 @@ body {
 .booking-button.primary.glow-button {
     position: relative;
     overflow: visible;
-    box-shadow: 0 0 20px 3px rgba(94, 22, 234, 0.3);
+    box-shadow: 0 0 5px 1px rgba(94, 22, 234, 0.1);
     transition: all 0.3s ease;
     z-index: 1;
     display: inline-flex;
@@ -234,7 +234,7 @@ body {
 
 .booking-button.primary.glow-button:hover {
     transform: translateY(-3px);
-    box-shadow: 0 0 30px 10px rgba(94, 22, 234, 0.5);
+    box-shadow: 0 0 8px 3px rgba(94, 22, 234, 0.15);
     background: #5e16ea;
 }
 
@@ -242,25 +242,29 @@ body {
     width: 100%;
     height: 30px;
     bottom: -15px;
+    filter: blur(5px);
+    opacity: 0.2;
 }
 
 .booking-button.primary.glow-button .button-aura-2 {
     width: 80%;
     height: 18px;
     bottom: -20px;
+    filter: blur(5px);
+    opacity: 0.12;
 }
 
 .booking-button.primary.glow-button:hover .button-aura-1 {
-    opacity: 0.8;
+    opacity: 0.24;
     bottom: -18px;
-    filter: blur(20px);
+    filter: blur(6px);
 }
 
 .booking-button.primary.glow-button:hover .button-aura-2 {
-    opacity: 0.6;
+    opacity: 0.18;
     bottom: -24px;
     width: 90%;
-    filter: blur(20px);
+    filter: blur(6px);
 }
 
 /* Section Styles */
