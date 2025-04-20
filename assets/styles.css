@@ -84,12 +84,12 @@ body {
     z-index: 2;
 }
 
-.phone-icon {
+.video-icon {
     transition: all 0.3s ease;
     color: rgba(255, 255, 255, 0.8);
 }
 
-.header-booking.glow-button:hover .phone-icon {
+.header-booking.glow-button:hover .video-icon {
     color: white;
     fill: white;
     filter: drop-shadow(0 0 2px rgba(255, 255, 255, 0.8));
