@@ -64,6 +64,84 @@ body {
     transform: translateY(-2px);
 }
 
+/* Glowing button styles for header booking */
+.header-booking.glow-button {
+    position: relative;
+    overflow: visible;
+    box-shadow: 0 0 15px 2px rgba(94, 22, 234, 0.3);
+    transition: all 0.3s ease;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button-content {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    position: relative;
+    z-index: 2;
+}
+
+.phone-icon {
+    transition: all 0.3s ease;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.header-booking.glow-button:hover .phone-icon {
+    color: white;
+    fill: white;
+    filter: drop-shadow(0 0 2px rgba(255, 255, 255, 0.8));
+}
+
+.header-booking.glow-button:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 0 25px 8px rgba(94, 22, 234, 0.5);
+    background: #5e16ea;
+}
+
+.button-aura-1 {
+    position: absolute;
+    bottom: -10px;
+    left: 50%;
+    width: 95%;
+    height: 20px;
+    transform: translateX(-50%);
+    background: #5e16ea;
+    filter: blur(15px);
+    opacity: 0.6;
+    z-index: -1;
+    transition: all 0.3s ease;
+}
+
+.button-aura-2 {
+    position: absolute;
+    bottom: -15px;
+    left: 50%;
+    width: 75%;
+    height: 12px;
+    transform: translateX(-50%);
+    background: #7a42f5;
+    filter: blur(15px);
+    opacity: 0.4;
+    z-index: -2;
+    transition: all 0.3s ease;
+}
+
+.header-booking.glow-button:hover .button-aura-1 {
+    opacity: 0.8;
+    bottom: -12px;
+    filter: blur(18px);
+}
+
+.header-booking.glow-button:hover .button-aura-2 {
+    opacity: 0.6;
+    bottom: -18px;
+    width: 85%;
+    filter: blur(18px);
+}
+
 /* Main Content */
 .main-content {
     display: flex;
@@ -132,6 +210,57 @@ body {
 .booking-button.primary:hover {
     background: #4c11c4;
     transform: translateY(-2px);
+}
+
+/* Primary Booking Button Glow Effect */
+.booking-button.primary.glow-button {
+    position: relative;
+    overflow: visible;
+    box-shadow: 0 0 20px 3px rgba(94, 22, 234, 0.3);
+    transition: all 0.3s ease;
+    z-index: 1;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.booking-button.primary.glow-button .button-content {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    position: relative;
+    z-index: 2;
+}
+
+.booking-button.primary.glow-button:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 0 30px 10px rgba(94, 22, 234, 0.5);
+    background: #5e16ea;
+}
+
+.booking-button.primary.glow-button .button-aura-1 {
+    width: 100%;
+    height: 30px;
+    bottom: -15px;
+}
+
+.booking-button.primary.glow-button .button-aura-2 {
+    width: 80%;
+    height: 18px;
+    bottom: -20px;
+}
+
+.booking-button.primary.glow-button:hover .button-aura-1 {
+    opacity: 0.8;
+    bottom: -18px;
+    filter: blur(20px);
+}
+
+.booking-button.primary.glow-button:hover .button-aura-2 {
+    opacity: 0.6;
+    bottom: -24px;
+    width: 90%;
+    filter: blur(20px);
 }
 
 /* Section Styles */
@@ -271,13 +400,14 @@ body {
     color: #5e16ea;
 }
 
-/* Newsletter Form */
+/* Newsletter Container */
 .newsletter-container {
     display: flex;
     justify-content: center;
     padding: 0 24px;
 }
 
+/* Newsletter Form */
 .seva-form {
     background-color: #ffffff;
     border-radius: 16px;
