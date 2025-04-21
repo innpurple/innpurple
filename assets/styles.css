@@ -421,6 +421,11 @@ body {
     color: #dc2626;
 }
 
+.accent-purple {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    color: #5e16ea;
+}
 .criteria-list {
     list-style: none;
     padding: 0;
