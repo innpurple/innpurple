@@ -27,6 +27,150 @@
             overflow: hidden;
         }
         
+        /* Styles for the AI orb */
+        .ai-orb-container {
+            position: relative;
+            width: 200px;
+            height: 200px;
+            margin: 48px auto;
+            cursor: pointer;
+        }
+        
+        .ai-orb {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border-radius: 50%;
+            background: radial-gradient(circle at 30% 30%, #8242fa, #5e16ea);
+            box-shadow: 
+                0 0 20px rgba(94, 22, 234, 0.4),
+                0 0 60px rgba(94, 22, 234, 0.2),
+                inset 0 0 40px rgba(255, 255, 255, 0.1);
+            animation: pulse 4s infinite ease-in-out;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: 600;
+            overflow: hidden;
+            transition: all 0.5s ease;
+        }
+        
+        .ai-orb:hover {
+            transform: scale(1.05);
+            box-shadow: 
+                0 0 25px rgba(94, 22, 234, 0.5),
+                0 0 80px rgba(94, 22, 234, 0.3),
+                inset 0 0 50px rgba(255, 255, 255, 0.2);
+        }
+        
+        .ai-orb::before {
+            content: "";
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: linear-gradient(
+                45deg, 
+                rgba(255, 255, 255, 0) 0%,
+                rgba(255, 255, 255, 0) 50%,
+                rgba(255, 255, 255, 0.1) 50%,
+                rgba(255, 255, 255, 0) 100%
+            );
+            transform: rotate(45deg);
+            animation: shine 6s infinite linear;
+        }
+        
+        .ai-orb-core {
+            position: relative;
+            width: 70%;
+            height: 70%;
+            border-radius: 50%;
+            background: rgba(255, 255, 255, 0.1);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            animation: breathe 3s infinite alternate;
+            backdrop-filter: blur(5px);
+        }
+        
+        .ai-orb-waves {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border-radius: 50%;
+            background: transparent;
+            overflow: hidden;
+        }
+        
+        .ai-orb-wave {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 200%;
+            height: 100%;
+            background: linear-gradient(
+                to bottom,
+                rgba(255, 255, 255, 0) 80%,
+                rgba(255, 255, 255, 0.2) 100%
+            );
+            transform-origin: center bottom;
+            animation: wave 15s infinite linear;
+        }
+        
+        .ai-orb-wave:nth-child(2) {
+            animation: wave 12s infinite linear;
+            opacity: 0.3;
+        }
+        
+        .ai-orb-wave:nth-child(3) {
+            animation: wave 10s infinite linear;
+            animation-delay: -5s;
+            opacity: 0.2;
+        }
+        
+        .ai-status {
+            position: absolute;
+            top: -15px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: rgba(255, 255, 255, 0.9);
+            color: #5e16ea;
+            padding: 3px 12px;
+            border-radius: 100px;
+            font-size: 12px;
+            font-weight: 600;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+        
+        .ai-orb-container:hover .ai-status {
+            opacity: 1;
+        }
+        
+        .elevenlabs-widget-container {
+            max-width: 800px;
+            margin: 48px auto;
+            border-radius: 16px;
+            box-shadow: 0 10px 30px rgba(94, 22, 234, 0.1);
+            overflow: hidden;
+            background: white;
+            transition: opacity 0.5s ease;
+            opacity: 0;
+            animation: fadeIn 0.5s forwards;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
         .secret-badge {
             position: absolute;
             top: 0;
@@ -55,15 +199,6 @@
         .warning-text {
             font-weight: 600;
             color: #dc2626;
-        }
-        
-        .ai-assistant-container {
-            max-width: 800px;
-            margin: 48px auto;
-            border-radius: 16px;
-            box-shadow: 0 10px 30px rgba(94, 22, 234, 0.1);
-            overflow: hidden;
-            background: white;
         }
         
         .secret-features {
@@ -144,6 +279,26 @@
             background: rgba(94, 22, 234, 0.1);
             border-radius: 50%;
         }
+        
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.05); }
+        }
+        
+        @keyframes breathe {
+            0% { transform: scale(1); opacity: 0.7; }
+            100% { transform: scale(1.1); opacity: 0.9; }
+        }
+        
+        @keyframes wave {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        @keyframes shine {
+            0% { transform: translateX(-100%) translateY(-100%) rotate(45deg); }
+            100% { transform: translateX(100%) translateY(100%) rotate(45deg); }
+        }
     </style>
 </head>
 <body>
@@ -208,9 +363,22 @@
                 </div>
             </div>
 
-            <div class="ai-assistant-container">
-                <elevenlabs-convai agent-id="3MODT8tvAAIo6oG286Hi"></elevenlabs-convai>
-                <script src="https://elevenlabs.io/convai-widget/index.js" async type="text/javascript"></script>
+            <div class="ai-orb-container" id="aiOrbContainer">
+                <div class="ai-status">Clicca per iniziare</div>
+                <div class="ai-orb">
+                    <div class="ai-orb-waves">
+                        <div class="ai-orb-wave"></div>
+                        <div class="ai-orb-wave"></div>
+                        <div class="ai-orb-wave"></div>
+                    </div>
+                    <div class="ai-orb-core">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"></path>
+                            <path d="M19 10v2a7 7 0 0 1-14 0v-2"></path>
+                            <line x1="12" x2="12" y1="19" y2="22"></line>
+                        </svg>
+                    </div>
+                </div>
             </div>
             
             <div style="text-align: center;">
@@ -304,6 +472,53 @@
                 }
             </style>
         `);
+        
+        // Handle AI orb interaction with improved customization
+        document.addEventListener('DOMContentLoaded', function() {
+            const aiOrbContainer = document.getElementById('aiOrbContainer');
+            
+            aiOrbContainer.addEventListener('click', function() {
+                // Hide the orb
+                aiOrbContainer.style.display = 'none';
+                
+                // Create the ElevenLabs widget container
+                const widgetContainer = document.createElement('div');
+                widgetContainer.className = 'elevenlabs-widget-container';
+                
+                // Create the ElevenLabs Convai element with customization
+                const convaiElement = document.createElement('elevenlabs-convai');
+                convaiElement.setAttribute('agent-id', '3MODT8tvAAIo6oG286Hi');
+                
+                // Custom first message - from documentation
+                convaiElement.setAttribute('override-first-message', 'Ciao! Sono la versione digitale di Claudia. Come posso aiutarti con la tua strategia contenuti?');
+                
+                // Customize with dynamic variables if needed
+                convaiElement.setAttribute('dynamic-variables', JSON.stringify({
+                    site_name: 'innpurple',
+                    current_page: 'ai'
+                }));
+                
+                // Append elements
+                widgetContainer.appendChild(convaiElement);
+                aiOrbContainer.parentNode.insertBefore(widgetContainer, aiOrbContainer.nextSibling);
+                
+                // Load the ElevenLabs script
+                const script = document.createElement('script');
+                script.src = 'https://elevenlabs.io/convai-widget/index.js';
+                script.async = true;
+                document.body.appendChild(script);
+                
+                // Add event listener for the widget call event (as shown in documentation)
+                convaiElement.addEventListener('elevenlabs-convai:call', (event) => {
+                    // Initialize any client tools if needed
+                    event.detail.config.clientTools = {
+                        redirectToBooking: () => {
+                            window.open('https://cal.com/innpurple/30min', '_blank', 'noopener,noreferrer');
+                        }
+                    };
+                });
+            });
+        });
         
         window.addEventListener('load', createParticles);
     </script>
