@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cookie Policy | innpurple</title>
+  <link rel="stylesheet" href="/assets/styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Playfair+Display:ital@1&display=swap" rel="stylesheet">
+  <style>
+    @media (max-width: 768px) {
+      .container {
+        padding: 32px 16px;
+      }
+      .section-title {
+        font-size: 28px;
+      }
+      .hero h1 {
+        font-size: 36px;
+      }
+      ul {
+        margin-left: 16px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="header">
+      <a href="/" class="logo">
+        <div class="logo-circle"></div>
+        <span>innpurple</span>
+      </a>
+      <a href="/" class="header-booking">Torna alla home</a>
+    </header>
+
+    <main class="main-content">
+      <section class="hero">
+        <h1>Cookie <span class="accent">Policy</span></h1>
+        <p class="last-update"><strong>Ultimo aggiornamento:</strong> Aprile 2025</p>
+        <p>Questa Cookie Policy spiega cosa sono i cookie e come li utilizziamo su www.innpurple.com.</p>
+      </section>
+
+      <section class="privacy-content">
+        <h2 class="section-title">1. Cosa sono i cookie?</h2>
+        <p>I cookie sono piccoli file di testo che vengono memorizzati nel tuo browser quando visiti un sito web. Sono utilizzati per migliorare l'esperienza utente, analizzare il traffico o offrire pubblicità personalizzata.</p>
+
+        <h2 class="section-title">2. Cookie utilizzati su questo sito</h2>
+        <ul>
+          <li><strong>Cookie tecnici</strong>: necessari per il funzionamento del sito.</li>
+          <li><strong>Cookie analitici</strong>: raccolta dati anonima tramite Google Analytics 4.</li>
+          <li><strong>Cookie di marketing</strong>: gestione newsletter e tracciamento tramite ConvertKit (previo consenso).</li>
+        </ul>
+
+        <h2 class="section-title">3. Gestione dei cookie</h2>
+        <p>Al primo accesso è richiesto di accettare o rifiutare i cookie. 
+        È possibile modificare le preferenze in qualsiasi momento cliccando sul bottone "Gestisci preferenze" presente sul sito.</p>
+
+        <h2 class="section-title">4. Link utili</h2>
+        <ul>
+          <li><a href="/privacy.html">Leggi la nostra Privacy Policy</a></li>
+          <li><a href="mailto:team@innpurple.com">Contattaci per maggiori informazioni</a></li>
+        </ul>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="social-links">
+        <a href="https://www.instagram.com/inn.claudia" class="social-link" target="_blank">Instagram</a>
+        <a href="https://www.linkedin.com/in/claudiadeleonardis/" class="social-link" target="_blank">LinkedIn</a>
+        <a href="https://www.youtube.com/@innpurple/" class="social-link" target="_blank">YouTube</a>
+      </div>
+      <p>© 2025 innpurple. Tutti i diritti riservati.</p>
+    </footer>
+  </div>
+</body>
+</html>
