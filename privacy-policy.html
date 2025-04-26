@@ -1,336 +1,123 @@
 <!DOCTYPE html>
 <html lang="it">
 <head>
-    <meta charset="UTF-8">
-    <link rel="icon" type="image/png" href="/assets/favicon.png">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Privacy Policy | innpurple</title>
-    <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Playfair+Display:ital@1&display=swap" rel="stylesheet">
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        body {
-            font-family: 'Figtree', sans-serif;
-            background-color: #f9f6ff;
-            color: #111;
-            line-height: 1.6;
-        }
-
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 48px 24px;
-        }
-
-        .header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 48px;
-        }
-
-        .logo {
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            font-size: 20px;
-            font-weight: 500;
-            text-decoration: none;
-            color: #111;
-        }
-
-        .logo-circle {
-            width: 24px;
-            height: 24px;
-            background-color: #5e16ea;
-            border-radius: 50%;
-        }
-
-        .back-link {
-            padding: 8px 16px;
-            font-size: 15px;
-            background: #5e16ea;
-            color: white;
-            text-decoration: none;
-            font-weight: 600;
-            border-radius: 8px;
-            transition: background 0.2s ease, transform 0.1s ease;
-        }
-
-        .back-link:hover {
-            background: #4c11c4;
-            transform: translateY(-2px);
-        }
-
-        .privacy-header {
-            margin-bottom: 32px;
-        }
-
-        .privacy-header h1 {
-            font-size: 40px;
-            margin-bottom: 16px;
-            font-weight: 600;
-        }
-
-        .privacy-header p {
-            color: #4b5563;
-            font-size: 18px;
-        }
-
-        .accent {
-            font-family: 'Playfair Display', serif;
-            font-style: italic;
-            color: #5e16ea;
-        }
-
-        .privacy-content {
-            background: white;
-            padding: 40px;
-            border-radius: 16px;
-            box-shadow: 0 4px 12px rgba(94, 22, 234, 0.06);
-            margin-bottom: 48px;
-        }
-
-        .privacy-section {
-            margin-bottom: 32px;
-        }
-
-        .privacy-section:last-child {
-            margin-bottom: 0;
-        }
-
-        .privacy-section h2 {
-            font-size: 24px;
-            margin-bottom: 16px;
-            color: #111;
-            font-weight: 600;
-        }
-
-        .privacy-section p {
-            margin-bottom: 16px;
-        }
-
-        .privacy-section ul {
-            margin-left: 24px;
-            margin-bottom: 16px;
-        }
-
-        .privacy-section li {
-            margin-bottom: 8px;
-        }
-
-        .privacy-section strong {
-            font-weight: 600;
-        }
-
-        .last-update {
-            font-size: 14px;
-            color: #6b7280;
-            margin-bottom: 24px;
-        }
-
-        .contact-section {
-            background: #f0ebff;
-            padding: 24px;
-            border-radius: 12px;
-            margin-top: 32px;
-        }
-
-        .contact-section h3 {
-            font-size: 18px;
-            margin-bottom: 8px;
-            color: #5e16ea;
-        }
-
-        .contact-section a {
-            color: #5e16ea;
-            text-decoration: underline;
-        }
-
-        .footer {
-            text-align: center;
-            padding-top: 32px;
-            color: #6b7280;
-        }
-
-        .social-links {
-            display: flex;
-            justify-content: center;
-            gap: 24px;
-            margin-bottom: 24px;
-        }
-
-        .social-link {
-            color: #6b7280;
-            text-decoration: none;
-        }
-
-        .social-link:hover {
-            color: #5e16ea;
-        }
-
-        .social-link svg {
-            transition: fill 0.3s ease;
-        }
-
-        .social-link:hover svg {
-            fill: #5e16ea;
-        }
-
-        @media (max-width: 768px) {
-            .privacy-content {
-                padding: 24px;
-            }
-
-            .privacy-header h1 {
-                font-size: 32px;
-            }
-        }
-    </style>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-DVBZPF14HP"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-DVBZPF14HP');
-    </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy | innpurple</title>
+  <link rel="stylesheet" href="/assets/styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Playfair+Display:ital@1&display=swap" rel="stylesheet">
+  <style>
+    @media (max-width: 768px) {
+      .container {
+        padding: 32px 16px;
+      }
+      .section-title {
+        font-size: 28px;
+      }
+      .hero h1 {
+        font-size: 36px;
+      }
+      ul {
+        margin-left: 16px;
+      }
+    }
+  </style>
 </head>
 <body>
-    <div class="container">
-        <header class="header">
-            <a href="/" class="logo">
-                <div class="logo-circle"></div>
-                <span>innpurple</span>
-            </a>
-            
-            <a href="/" class="back-link">Torna alla home</a>
-        </header>
+  <div class="container">
+    <header class="header">
+      <a href="/" class="logo">
+        <div class="logo-circle"></div>
+        <span>innpurple</span>
+      </a>
+      <a href="/" class="header-booking">Torna alla home</a>
+    </header>
 
-        <div class="privacy-header">
-            <h1>Privacy <span class="accent">Policy</span></h1>
-            <p class="last-update"><strong>Ultimo aggiornamento:</strong> Aprile 2025</p>
-            <p>La presente informativa descrive le modalità di trattamento dei dati personali raccolti tramite il sito www.innpurple.com, in conformità al Regolamento UE 2016/679 ("GDPR").</p>
-        </div>
+    <main class="main-content">
+      <section class="hero">
+        <h1>Privacy <span class="accent">Policy</span></h1>
+        <p class="last-update"><strong>Ultimo aggiornamento:</strong> Aprile 2025</p>
+        <p>La presente informativa descrive le modalità di trattamento dei dati personali raccolti tramite il sito www.innpurple.com, in conformità al Regolamento UE 2016/679 ("GDPR").</p>
+      </section>
 
-        <div class="privacy-content">
-            <div class="privacy-section">
-                <h2>1. Titolare del trattamento</h2>
-                <p>Il titolare del trattamento è:</p>
-                <p><strong>Claudia De Leonardis</strong><br>
-                P. IVA: 08850920722<br>
-                Sede legale: Via Mariotto Albertinelli 9, Milano (20148)<br>
-                Email: team@innpurple.com</p>
-            </div>
+      <section class="privacy-content">
+        <h2 class="section-title">1. Titolare del trattamento</h2>
+        <p><strong>Claudia De Leonardis</strong><br>
+        P. IVA: 08850920722<br>
+        Sede legale: Via Mariotto Albertinelli 9, Milano (20148)<br>
+        Email: team@innpurple.com</p>
 
-            <div class="privacy-section">
-                <h2>2. Dati trattati</h2>
-                <p>Possiamo raccogliere e trattare le seguenti tipologie di dati:</p>
-                <ul>
-                    <li><strong>Dati identificativi</strong> (nome, email) tramite i moduli di contatto o iscrizione.</li>
-                    <li><strong>Dati di navigazione</strong> raccolti tramite strumenti come Google Analytics.</li>
-                    <li><strong>Dati relativi a prenotazioni</strong> tramite Cal.com (es. nome, email, orario appuntamento).</li>
-                    <li><strong>Dati per finalità di marketing diretto</strong> (solo con consenso) attraverso iscrizione alla newsletter via Kit.com.</li>
-                </ul>
-            </div>
+        <h2 class="section-title">2. Dati trattati</h2>
+        <ul>
+          <li><strong>Dati identificativi</strong> (nome, email) tramite i moduli di contatto o iscrizione.</li>
+          <li><strong>Dati di navigazione</strong> raccolti tramite strumenti come Google Analytics 4.</li>
+          <li><strong>Dati relativi a prenotazioni</strong> tramite Cal.com.</li>
+          <li><strong>Dati per finalità di marketing diretto</strong> tramite ConvertKit.</li>
+        </ul>
 
-            <div class="privacy-section">
-                <h2>3. Finalità del trattamento</h2>
-                <p>I dati sono trattati per le seguenti finalità:</p>
-                <ul>
-                    <li>Rispondere a richieste o prenotazioni di call;</li>
-                    <li>Inviare contenuti tramite newsletter (solo previo consenso);</li>
-                    <li>Analizzare il traffico del sito a fini statistici anonimi;</li>
-                    <li>Adempiere ad obblighi di legge.</li>
-                </ul>
-            </div>
+        <h2 class="section-title">3. Finalità del trattamento</h2>
+        <ul>
+          <li>Rispondere a richieste o prenotazioni di call.</li>
+          <li>Inviare contenuti tramite newsletter previo consenso.</li>
+          <li>Analizzare il traffico del sito a fini statistici anonimi.</li>
+          <li>Adempiere ad obblighi di legge.</li>
+        </ul>
 
-            <div class="privacy-section">
-                <h2>4. Base giuridica del trattamento</h2>
-                <ul>
-                    <li>Esecuzione di un contratto o di misure precontrattuali (es. richiesta info);</li>
-                    <li>Consenso esplicito (newsletter);</li>
-                    <li>Legittimo interesse (analytics anonimizzati);</li>
-                    <li>Obblighi legali.</li>
-                </ul>
-            </div>
+        <h2 class="section-title">4. Base giuridica del trattamento</h2>
+        <ul>
+          <li>Esecuzione di un contratto o di misure precontrattuali.</li>
+          <li>Consenso esplicito (newsletter).</li>
+          <li>Legittimo interesse (analytics anonimizzati).</li>
+          <li>Obblighi legali.</li>
+        </ul>
 
-            <div class="privacy-section">
-                <h2>5. Modalità del trattamento</h2>
-                <p>Il trattamento avviene con strumenti digitali, in modo lecito, trasparente e limitato alle finalità indicate. Non viene effettuata profilazione automatizzata.</p>
-            </div>
+        <h2 class="section-title">5. Modalità del trattamento</h2>
+        <p>I dati sono trattati digitalmente, in modo lecito, trasparente e limitato alle finalità indicate. Non viene effettuata profilazione automatizzata.</p>
 
-            <div class="privacy-section">
-                <h2>6. Conservazione dei dati</h2>
-                <ul>
-                    <li>I dati di contatto vengono conservati fino a 12 mesi dalla richiesta.</li>
-                    <li>I dati di iscrizione alla newsletter fino a disiscrizione.</li>
-                    <li>I dati di analytics sono anonimizzati e conservati per 14 mesi.</li>
-                </ul>
-            </div>
+        <h2 class="section-title">6. Conservazione dei dati</h2>
+        <ul>
+          <li>I dati di contatto sono conservati fino a 12 mesi dalla richiesta.</li>
+          <li>I dati di iscrizione alla newsletter fino a disiscrizione.</li>
+          <li>I dati di analytics sono anonimizzati e conservati per 14 mesi.</li>
+        </ul>
 
-            <div class="privacy-section">
-                <h2>7. Strumenti di terze parti utilizzati</h2>
-                <ul>
-                    <li><strong>Google Analytics</strong> (con anonimizzazione IP): raccolta dati di traffico anonimi. <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Privacy Policy</a></li>
-                    <li><strong>Cal.com</strong>: gestione prenotazioni call. <a href="https://cal.com/privacy" target="_blank" rel="noopener noreferrer">Privacy Policy</a></li>
-                    <li><strong>Kit.com</strong>: gestione newsletter. <a href="https://kit.com/privacy" target="_blank" rel="noopener noreferrer">Privacy Policy</a></li>
-                    <li><strong>Hosting GitHub Pages</strong>: erogazione contenuti del sito. <a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" target="_blank" rel="noopener noreferrer">Privacy GitHub</a></li>
-                </ul>
-            </div>
+        <h2 class="section-title">7. Servizi di terze parti utilizzati</h2>
+        <ul>
+          <li><strong>Google Analytics 4</strong> (con anonimizzazione IP): <a href="https://policies.google.com/privacy" target="_blank">Privacy Policy</a></li>
+          <li><strong>Cal.com</strong>: gestione prenotazioni call. <a href="https://cal.com/privacy" target="_blank">Privacy Policy</a></li>
+          <li><strong>ConvertKit</strong>: gestione newsletter e automazioni email. <a href="https://convertkit.com/privacy" target="_blank">Privacy Policy</a></li>
+          <li><strong>GitHub Pages</strong>: hosting del sito. <a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" target="_blank">Privacy Policy</a></li>
+        </ul>
 
-            <div class="privacy-section">
-                <h2>8. Trasferimento dati extra UE</h2>
-                <p>Alcuni servizi potrebbero comportare trasferimenti di dati fuori dallo Spazio Economico Europeo (es. Google, Cal.com). In tal caso vengono adottate misure adeguate (es. clausole contrattuali standard).</p>
-            </div>
+        <h2 class="section-title">8. Trasferimento dati extra UE</h2>
+        <p>Alcuni servizi possono comportare trasferimenti di dati fuori dallo Spazio Economico Europeo. Sono adottate misure adeguate come le clausole contrattuali standard.</p>
 
-            <div class="privacy-section">
-                <h2>9. Diritti dell'interessato</h2>
-                <p>Puoi esercitare i seguenti diritti in qualsiasi momento, scrivendo a team@innpurple.com:</p>
-                <ul>
-                    <li>Accesso ai dati personali</li>
-                    <li>Rettifica o cancellazione</li>
-                    <li>Limitazione o opposizione al trattamento</li>
-                    <li>Portabilità dei dati</li>
-                    <li>Reclamo all'autorità Garante (<a href="https://www.garanteprivacy.it" target="_blank" rel="noopener noreferrer">www.garanteprivacy.it</a>)</li>
-                </ul>
-            </div>
+        <h2 class="section-title">9. Diritti dell'interessato</h2>
+        <p>Puoi esercitare in qualsiasi momento i diritti di accesso, rettifica, cancellazione, limitazione, opposizione e portabilità dei dati scrivendo a <a href="mailto:team@innpurple.com">team@innpurple.com</a>. È inoltre possibile proporre reclamo al Garante Privacy.</p>
 
-            <div class="privacy-section">
-                <h2>10. Cookie Policy</h2>
-                <p>Al momento <strong>non sono attivi cookie di profilazione</strong> né cookie di terze parti non tecnici. In caso di aggiornamenti, verrà integrata una cookie policy conforme con sistema di consenso.</p>
-            </div>
+        <h2 class="section-title">10. Cookie Policy</h2>
+        <p>Questo sito utilizza cookie tecnici necessari e strumenti di terze parti che installano cookie di analisi e marketing solo previo consenso:</p>
+        <ul>
+          <li><strong>Google Analytics 4</strong>: cookie di statistica anonima.</li>
+          <li><strong>ConvertKit</strong>: cookie relativi alla gestione dei form di iscrizione.</li>
+        </ul>
+        <p>Per modificare o revocare il consenso è possibile utilizzare il bottone "Gestisci preferenze" presente sul sito.</p>
+      </section>
 
-            <div class="contact-section">
-                <h3>Richieste e contatti</h3>
-                <p>Per qualsiasi dubbio, contattarci a <a href="mailto:team@innpurple.com">team@innpurple.com</a></p>
-            </div>
-        </div>
+      <div class="contact-section">
+        <h3>Contatti</h3>
+        <p>Per qualsiasi dubbio o richiesta scrivere a <a href="mailto:team@innpurple.com">team@innpurple.com</a></p>
+      </div>
+    </main>
 
-        <footer class="footer">
-            <div class="social-links">
-                <a href="https://www.instagram.com/inn.claudia" class="social-link" aria-label="Instagram" target="_blank" rel="noopener noreferrer">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
-                        <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.917 3.917 0 0 0-1.417.923A3.927 3.927 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.916 3.916 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.926 3.926 0 0 0-.923-1.417A3.911 3.911 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0h.003zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599.28.28.453.546.598.92.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.47 2.47 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.478 2.478 0 0 1-.92-.598 2.48 2.48 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233 0-2.136.008-2.388.046-3.231.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92.28-.28.546-.453.92-.598.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045v.002zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92zm-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217zm0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334z"/>
-                    </svg>
-                </a>
-                <a href="https://www.linkedin.com/in/claudiadeleonardis/" class="social-link" aria-label="LinkedIn" target="_blank" rel="noopener noreferrer">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
-                        <path d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854V1.146zm4.943 12.248V6.169H2.542v7.225h2.401zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248-.822 0-1.359.54-1.359 1.248 0 .694.521 1.248 1.327 1.248h.016zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016a5.54 5.54 0 0 1 .016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225h2.4z"/>
-                    </svg>
-                </a>
-                <a href="https://www.youtube.com/@innpurple/" class="social-link" aria-label="YouTube" target="_blank" rel="noopener noreferrer">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
-                        <path d="M8.051 1.999h.089c.822.003 4.987.033 6.11.335a2.01 2.01 0 0 1 1.415 1.42c.101.38.172.883.22 1.402l.01.104.022.26.008.104c.065.914.073 1.77.074 1.957v.075c-.001.194-.01 1.108-.082 2.06l-.008.105-.009.104c-.05.572-.124 1.14-.235 1.558a2.007 2.007 0 0 1-1.415 1.42c-1.16.312-5.569.334-6.18.335h-.142c-.309 0-1.587-.006-2.927-.052l-.17-.006-.087-.004-.171-.007-.171-.007c-1.11-.049-2.167-.128-2.654-.26a2.007 2.007 0 0 1-1.415-1.419c-.111-.417-.185-.986-.235-1.558L.09 9.82l-.008-.104A31.4 31.4 0 0 1 0 7.68v-.123c.002-.215.01-.958.064-1.778l.007-.103.003-.052.008-.104.022-.26.01-.104c.048-.519.119-1.023.22-1.402a2.007 2.007 0 0 1 1.415-1.42c.487-.13 1.544-.21 2.654-.26l.17-.007.172-.006.086-.003.171-.007A99.788 99.788 0 0 1 7.858 2h.193zM6.4 5.209v4.818l4.157-2.408L6.4 5.209z"/>
-                    </svg>
-                </a>
-            </div>
-            <p>© 2025 innpurple. Tutti i diritti riservati.</p>
-        </footer>
-    </div>
+    <footer class="footer">
+      <div class="social-links">
+        <a href="https://www.instagram.com/inn.claudia" class="social-link" target="_blank">Instagram</a>
+        <a href="https://www.linkedin.com/in/claudiadeleonardis/" class="social-link" target="_blank">LinkedIn</a>
+        <a href="https://www.youtube.com/@innpurple/" class="social-link" target="_blank">YouTube</a>
+      </div>
+      <p>© 2025 innpurple. Tutti i diritti riservati.</p>
+    </footer>
+  </div>
 </body>
 </html>
