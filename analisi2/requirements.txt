@@ -1,0 +1,29 @@
+# Instagram Reels Transcription Pipeline Requirements
+
+# Web Framework
+Flask==3.0.0
+Werkzeug>=3.0.0
+
+# Core Dependencies
+requests>=2.32.2
+python-dotenv==1.0.0
+certifi>=2025.11.12
+
+# Video Processing
+yt-dlp==2024.7.9
+
+# AI/ML Dependencies
+openai-whisper==20231117
+
+# Audio Processing
+ffmpeg-python==0.2.0
+
+# Data Processing
+beautifulsoup4==4.12.2
+lxml==4.9.2
+
+# File Handling
+pathlib==1.0.1
+
+# NumPy compatibility
+numpy<2 

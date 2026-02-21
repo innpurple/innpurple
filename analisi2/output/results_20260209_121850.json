@@ -1,0 +1,412 @@
+{
+  "summary": {
+    "totalReels": 20,
+    "successfulTranscriptions": 0,
+    "failedTranscriptions": 20,
+    "totalWords": 0,
+    "totalDuration": 0.0,
+    "processedAt": "2026-02-09T12:18:50.935952"
+  },
+  "reels": [
+    {
+      "platform": "Instagram",
+      "reelUrl": "https://www.instagram.com/p/DUDbxCbDOTU/",
+      "videoUrl": "https://instagram.fsac1-2.fna.fbcdn.net/o1/v/t16/f2/m86/AQML8l52gL4UI4aCSISxP74csbiVE6TNe-1P0KhN3kVMM4485VX-pJLiqM2jPq3XIJg45YBbQEnMvFxSfWjr9S-5lBaYJ8D0if45E2o.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=107&vs=1408855127098285_3015390533&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82NTQwRDRBOTRCQTdCM0Q5QjNDQzg3MkE4OTZDNEM4M192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0RBNDJBNEE1RDQ0MkQ5RDRDOTU1RjI2N0VBNjQ4N0FCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwAVAAAmmqaJ0M37zj8VAigCQzMsF0A%2B3bItDlYEGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX%2BB2XmnQEA&_nc_rid=42dadf4ab9&ccb=9-4&oh=00_AftbcvwVR6rCZ7OgLAxgSth-6xqJ_xwwtkIN7z8ZrtA3SA&oe=698B9530&_nc_sid=10d13b",
+      "caption": "#ironia",
+      "metadata": {
+        "timestamp": "",
+        "likes": 0,
+        "comments": 0,
+        "filename": "reel_01_ironia_ragazza_interesse.mp4",
+        "localPath": "downloads/reel_01_ironia_ragazza_interesse.mp4"
+      },
+      "transcript": "",
+      "wordCount": 0,
+      "duration": 0.0,
+      "processingTime": 0.0,
+      "transcriptionSuccess": false,
+      "transcriptionError": "[Errno 2] No such file or directory: 'ffmpeg'",
+      "processedAt": "2026-02-09T12:18:50.935751"
+    },
+    {
+      "platform": "Instagram",
+      "reelUrl": "https://www.instagram.com/p/DUfyqIxDFhy/",
+      "videoUrl": "https://scontent-iad3-1.cdninstagram.com/o1/v/t16/f2/m69/AQOHLvaAEoQo6jJ8Ht1WWSjwAW4mjb0xqQEgkQDcoXvfz_UniaWkNPs8ojdPJd5bkk0TLK6aT0KyQMER78ZU0FLe.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=108&vs=923326850142038_3607021484&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HS0NxbHlVMUFWTWt2SUlFQUQwVGV0SG5mcW9QYnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzhFNDNBMzdBRDU1OTZBNjM3RDcyRTM4MTc5QzhDNUFEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwAVAAAmmqWi3Y7Qzz8VAigCQzMsF0A6XbItDlYEGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX%2BB2XmnQEA&_nc_rid=078f628033&ccb=9-4&oh=00_Aft21GO_Zze6_7ij4hP_5oN16EnmmIxz-awD7kXnjD7txw&oe=698B94F8&_nc_sid=10d13b",
+      "caption": "#ironia",
+      "metadata": {
+        "timestamp": "",
+        "likes": 0,
+        "comments": 0,
+        "filename": "reel_02_ironia_frasimotivazionali_ragazzo.mp4",
+        "localPath": "downloads/reel_02_ironia_frasimotivazionali_ragazzo.mp4"
+      },
+      "transcript": "",
+      "wordCount": 0,
+      "duration": 0.0,
+      "processingTime": 0.0,
+      "transcriptionSuccess": false,
+      "transcriptionError": "[Errno 2] No such file or directory: 'ffmpeg'",
+      "processedAt": "2026-02-09T12:18:50.935782"
+    },
+    {
+      "platform": "Instagram",
+      "reelUrl": "https://www.instagram.com/p/DUVe4nQjD1v/",
+      "videoUrl": "https://scontent-atl3-3.cdninstagram.com/o1/v/t16/f2/m86/AQNu_HOXAXS3EUA7IXP147pM-E3uvtfw-0INGBa96FFtvRRFJ50DsXIWu5WRkPFO5_mZZfYi8dAx2IybOAT-6ap-QyCxPWODh5x_Yf8.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=107&vs=1253848153518950_3982156325&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85ODQ1OEE1NTgyNEQ3NzhCREE4ODg5RTIzM0ZBMjc5NF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzgwNERDNjgzMDE2ODJGNjY3Q0UwRDYzNTkwQjI2NUFGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwAVAAAmmqGvs6mxzz8VAigCQzMsF0A7mZmZmZmaGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX%2BB2XmnQEA&_nc_rid=b4494c2fa2&ccb=9-4&oh=00_AfuFVdpGSRx2zYAI-GiBqhH0iYNLKREJmXVvnjCz3jsH_w&oe=698B8474&_nc_sid=10d13b",
+      "caption": "#ironia",
+      "metadata": {
+        "timestamp": "",
+        "likes": 0,
+        "comments": 0,
+        "filename": "reel_03_ironia_frasimotivazionali_amico.mp4",
+        "localPath": "downloads/reel_03_ironia_frasimotivazionali_amico.mp4"
+      },
+      "transcript": "",
+      "wordCount": 0,
+      "duration": 0.0,
+      "processingTime": 0.0,
+      "transcriptionSuccess": false,
+      "transcriptionError": "[Errno 2] No such file or directory: 'ffmpeg'",
+      "processedAt": "2026-02-09T12:18:50.935795"
+    },
+    {
+      "platform": "Instagram",
+      "reelUrl": "https://www.instagram.com/p/DUaoxyZjPjn/",
+      "videoUrl": "https://scontent-mia3-3.cdninstagram.com/o1/v/t16/f2/m69/AQOZI6ltiFS4P4kn3VUKcMegPcPHoRm6Ev3l_M7ZMOrPEOdItpzSCZhMZLIRafNB1Jax8wkADYr0WdkAeMP2to70.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=109&vs=3401194066713286_3766453031&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HREVVTGlVdXZTSU1yLWtPQUVxVUNFSmNBaEZZYnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzM5NDU2QTc5RDgxNDE4MDVBNzA5MkI4MDUxNDU3NEI4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwAVAAAmmpOm9qjAzz8VAigCQzMsF0BApmZmZmZmGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX%2BB2XmnQEA&_nc_rid=4852d35076&ccb=9-4&oh=00_AftE8qjWcIA_uAj3Ts71BfKInoR6gkUlJxGGTDb8bR54Ig&oe=698B9BC6&_nc_sid=10d13b",
+      "caption": "#ironia",
+      "metadata": {
+        "timestamp": "",
+        "likes": 0,
+        "comments": 0,
+        "filename": "reel_04_ironia_fidanzata_fidanzati.mp4",
+        "localPath": "downloads/reel_04_ironia_fidanzata_fidanzati.mp4"
+      },
+      "transcript": "",
+      "wordCount": 0,
+      "duration": 0.0,
+      "processingTime": 0.0,
+      "transcriptionSuccess": false,
+      "transcriptionError": "[Errno 2] No such file or directory: 'ffmpeg'",
+      "processedAt": "2026-02-09T12:18:50.935802"
+    },
+    {
+      "platform": "Instagram",
+      "reelUrl": "https://www.instagram.com/p/DUA3JXVjIRF/",
+      "videoUrl": "https://scontent-sjc6-1.cdninstagram.com/o1/v/t16/f2/m86/AQMvW7-ICDj9NLEzunXfXhSpvlyrnnUqUvFQEXNIrPBNb78pxpzbd1QovKEjduOZxlBnZZGS0frdbk3_I61hMXv9Eo3t9IAjQQgr8BA.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=111&vs=4438519529711366_2346903497&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9ERTQwNkM3QTJBRjM1MTYwNDZENTNEMzU3RjQ4RjQ5Ql92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzA1NDYxNjAwRjYzRkY0REJFNTgxQTQzMzI0QTUwQUEwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwAVAAAmmqfc1Lf0zj8VAigCQzMsF0A4u6XjU%2FfPGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX%2BB2XmnQEA&_nc_rid=58e9ab34df&ccb=9-4&oh=00_AfsDawZ0Nstp9oTCVXl0ap4bfi_Q9awoS4Ap8ygmGu2RtQ&oe=698B9E5F&_nc_sid=10d13b",
+      "caption": "#ironia",
+      "metadata": {
+        "timestamp": "",
+        "likes": 0,
+        "comments": 0,
+        "filename": "reel_05_ironia_frasimotivazionali_fidanzata.mp4",
+        "localPath": "downloads/reel_05_ironia_frasimotivazionali_fidanzata.mp4"
+      },
+      "transcript": "",
+      "wordCount": 0,
+      "duration": 0.0,
+      "processingTime": 0.0,
+      "transcriptionSuccess": false,
+      "transcriptionError": "[Errno 2] No such file or directory: 'ffmpeg'",
+      "processedAt": "2026-02-09T12:18:50.935808"
+    },
+    {
+      "platform": "Instagram",
+      "reelUrl": "https://www.instagram.com/p/DUYLWttjCK8/",
+      "videoUrl": "https://scontent-hou1-1.cdninstagram.com/o1/v/t16/f2/m69/AQNUL9GIMelHnPucPxwmq0A4YqARV_Gw_HvIf4Jv2uuIc7RK2n6-UHw4n5KeKPv1YyRqTBu3d_vQ9ccE7HU_j3rp.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=103&vs=886063374392992_3839229732&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HUFd6WENYZkRxMFItSThGQUZPSkRCb1hQNDhUYnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzg4NDI3ODRCODlDMUM5OUVCQTYxN0ExQjk1NDg1NThDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwAVAAAmmsT%2BvaS5zz8VAigCQzMsF0A9Kn752yLRGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX%2BB2XmnQEA&_nc_rid=5c573bc04b&ccb=9-4&oh=00_AftFddpzS8iNQkwh2oqteMDjlxEKThvLjaV4ICfDP1LmNg&oe=698BA5A2&_nc_sid=10d13b",
+      "caption": "#ironia",
+      "metadata": {
+        "timestamp": "",
+        "likes": 0,
+        "comments": 0,
+        "filename": "reel_06_ironia_frasimotivazionali_uomo.mp4",
+        "localPath": "downloads/reel_06_ironia_frasimotivazionali_uomo.mp4"
+      },
+      "transcript": "",
+      "wordCount": 0,
+      "duration": 0.0,
+      "processingTime": 0.0,
+      "transcriptionSuccess": false,
+      "transcriptionError": "[Errno 2] No such file or directory: 'ffmpeg'",
+      "processedAt": "2026-02-09T12:18:50.935820"
+    },
+    {
+      "platform": "Instagram",
+      "reelUrl": "https://www.instagram.com/p/DT5M1hPjJWF/",
+      "videoUrl": "https://scontent-atl3-3.cdninstagram.com/o1/v/t16/f2/m69/AQPIFul8dMnX3ZGWbCjnrY1sXNuKArUSdGhT7_OP43NIE1bBnDhmCfBJwyOjtr85tQj69j947j1A5AHCvgSbHMJJ.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=110&vs=25824675340554734_3886119494&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HUFBjOUNRa3BJUElsMzhHQU9Eb2lRQ1ltZkktYnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0E3NEVEMjNEOUNFQjFCNkU3RTRFODg5MEREMzk4QzlGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwAVAAAmmufBpd7dzj8VAigCQzMsF0AlFP3ztkWiGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX%2BB2XmnQEA&_nc_rid=db898627ef&ccb=9-4&oh=00_AfudX1c5moYqeup_roFeiUcvrzBYSdtvIcOYiWr_cgrOzw&oe=698B9E9C&_nc_sid=10d13b",
+      "caption": "#sanvalentino",
+      "metadata": {
+        "timestamp": "",
+        "likes": 0,
+        "comments": 0,
+        "filename": "reel_07_sanvalentino_ristorante_coppie.mp4",
+        "localPath": "downloads/reel_07_sanvalentino_ristorante_coppie.mp4"
+      },
+      "transcript": "",
+      "wordCount": 0,
+      "duration": 0.0,
+      "processingTime": 0.0,
+      "transcriptionSuccess": false,
+      "transcriptionError": "[Errno 2] No such file or directory: 'ffmpeg'",
+      "processedAt": "2026-02-09T12:18:50.935827"
+    },
+    {
+      "platform": "Instagram",
+      "reelUrl": "https://www.instagram.com/p/DUNvuAmDKrQ/",
+      "videoUrl": "https://scontent-msp1-1.cdninstagram.com/o1/v/t16/f2/m86/AQOgO5YVUoSALC-enI4G2_mvhKP6cc5JLGi12KatA3lqGuvNooRYMLioGqesspFeih3ZjYfq8ie8-deZNLsviHPK5BAPbqxyIJFE34g.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=109&vs=2357027434811611_1752325841&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zRTQ3OUYzMzNDQTBCRDIxODE5MDM3MkREMkE1QUJCMl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0Q1NDAwNEE5RDk4NUM5NkJBMTZEOTlDRTFDRjcxMjlGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwAVAAAmmvHHkMybzz8VAigCQzMsF0BB0QYk3S8bGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX%2BB2XmnQEA&_nc_rid=fed0ad6f89&ccb=9-4&oh=00_Afusv0QunN3VAfIkiQm1Grh-pz2TRL0VqZSn06or4pNOTg&oe=698BA37C&_nc_sid=10d13b",
+      "caption": "#ironia",
+      "metadata": {
+        "timestamp": "",
+        "likes": 0,
+        "comments": 0,
+        "filename": "reel_08_ironia_frasimotivazionali_uomini.mp4",
+        "localPath": "downloads/reel_08_ironia_frasimotivazionali_uomini.mp4"
+      },
+      "transcript": "",
+      "wordCount": 0,
+      "duration": 0.0,
+      "processingTime": 0.0,
+      "transcriptionSuccess": false,
+      "transcriptionError": "[Errno 2] No such file or directory: 'ffmpeg'",
+      "processedAt": "2026-02-09T12:18:50.935833"
+    },
+    {
+      "platform": "Instagram",
+      "reelUrl": "https://www.instagram.com/p/DTp1rrSDHzl/",
+      "videoUrl": "https://scontent-lga3-2.cdninstagram.com/o1/v/t16/f2/m69/AQNgtxQOKWDPhb9WCcF2A6aWtG2u8p6ZtLqF93WGEKAGCcqR2dg_rdRqbsmMjwIYNw2-ADAQ9RqW-tbUsWyQnb-U.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=107&vs=25524506213866734_3808167027&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HR3U0dVNTZmpHek5WUWNGQUhLUDQ3SzM2VWtyYnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzRDNEI5RjY5NUNDQkFCMDg0NUE2MjU3NzAyMDIzMTg5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwAVAAAmmt2kptyyzj8VAigCQzMsF0BIMzMzMzMzGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX%2BB2XmnQEA&_nc_rid=a1c7b6956a&ccb=9-4&oh=00_AfuOX45R_r4tSdL5QD1HTnmc67U0CDlne1Ea0ScBjo54RQ&oe=698BB7F6&_nc_sid=10d13b",
+      "caption": "#ironia",
+      "metadata": {
+        "timestamp": "",
+        "likes": 0,
+        "comments": 0,
+        "filename": "reel_09_ironia_frasimotivazionali_professori.mp4",
+        "localPath": "downloads/reel_09_ironia_frasimotivazionali_professori.mp4"
+      },
+      "transcript": "",
+      "wordCount": 0,
+      "duration": 0.0,
+      "processingTime": 0.0,
+      "transcriptionSuccess": false,
+      "transcriptionError": "[Errno 2] No such file or directory: 'ffmpeg'",
+      "processedAt": "2026-02-09T12:18:50.935839"
+    },
+    {
+      "platform": "Instagram",
+      "reelUrl": "https://www.instagram.com/p/DTfY6XPDGJo/",
+      "videoUrl": "https://scontent-sjc6-1.cdninstagram.com/o1/v/t16/f2/m69/AQNfyug8tJL16sqSrTXdJ6Ad-tpcaYpdrz5wVdlaUQ_ds6w13SA_wGpXvgSajFZ9He5U12X1dism3VCvQ1PufNsR.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=101&vs=852290881013078_319076296&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSU41dENUUGU4bklXalFFQUNJemVHNVQxdElNYnNwVEFRQUYVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HS3pGcXlRM3VUc1JXMmtGQUlmckVIeWgtOVFsYnN0VEFRQUYVAgLIARIAKAAYABsAFQAAJpqGj7%2FPlc4%2FFQIoAkMzLBdAQtEGJN0vGxgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=44998cc502&ccb=9-4&oh=00_AfuVO7iSxXtv0-scEKqYPE05eTvmy1XAnvZipglpfAYhrQ&oe=698BB7F8&_nc_sid=10d13b",
+      "caption": "#ironia",
+      "metadata": {
+        "timestamp": "",
+        "likes": 0,
+        "comments": 0,
+        "filename": "reel_10_ironia_frasimotivazionali_lavoro.mp4",
+        "localPath": "downloads/reel_10_ironia_frasimotivazionali_lavoro.mp4"
+      },
+      "transcript": "",
+      "wordCount": 0,
+      "duration": 0.0,
+      "processingTime": 0.0,
+      "transcriptionSuccess": false,
+      "transcriptionError": "[Errno 2] No such file or directory: 'ffmpeg'",
+      "processedAt": "2026-02-09T12:18:50.935850"
+    },
+    {
+      "platform": "Instagram",
+      "reelUrl": "https://www.instagram.com/p/DTX5xKuDPlx/",
+      "videoUrl": "https://scontent-lga3-2.cdninstagram.com/o1/v/t16/f2/m86/AQPsAXp23B0dGzzw-H3q9yQSYq5sm_BqzecKwPdhSgdwjw10sPFIHLp0tbtDFJGHAHfTHmlFEXEfmgHt5f3s_-eCasbccfMkttHsviE.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=101&vs=1306836384499868_3916787188&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9CMTQ1MDgyRjE0OTI4RDc0OEMxN0MzQzM0RTkzN0E5Rl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HREFUa3lROHFReTFXNUVHQUpRb1Z3UEUzbzR2YnN0VEFRQUYVAgLIARIAKAAYABsAFQAAJpqhhdqQgs4%2FFQIoAkMzLBdARDul41P3zxgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=9c967e8214&ccb=9-4&oh=00_Aft_t3uuOOTbVAfSR_sDAkhP45nWAUVHIMFrjSvxfggiZg&oe=698BA104&_nc_sid=10d13b",
+      "caption": "#ironia #frasimotivazionali #mamma❤️",
+      "metadata": {
+        "timestamp": "",
+        "likes": 0,
+        "comments": 0,
+        "filename": "reel_11_ironia_frasimotivazionali_mamma.mp4",
+        "localPath": "downloads/reel_11_ironia_frasimotivazionali_mamma.mp4"
+      },
+      "transcript": "",
+      "wordCount": 0,
+      "duration": 0.0,
+      "processingTime": 0.0,
+      "transcriptionSuccess": false,
+      "transcriptionError": "[Errno 2] No such file or directory: 'ffmpeg'",
+      "processedAt": "2026-02-09T12:18:50.935861"
+    },
+    {
+      "platform": "Instagram",
+      "reelUrl": "https://www.instagram.com/p/DTc9slcjM1F/",
+      "videoUrl": "https://scontent-ord5-3.cdninstagram.com/o1/v/t16/f2/m86/AQPZmRS_hQ1Xpcked6uefl2Hgvv5r9s_t1Q2yjjPEcHEddYYhzzlEcyRbj2_ti2dcoccrsWa_zr1pBtNnuG_36JHnAfYlYD73VViWb0.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=107&vs=1792516168803335_4091078203&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8wRTRDREE1NjU1Q0MxNUFBNjZFOURDMzFBQkZFNkM4M192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTVRBakNUR0tLQ3c2R0FFQU9selF2VGppQzVTYnN0VEFRQUYVAgLIARIAKAAYABsAFQAAJpqwhdGjj84%2FFQIoAkMzLBdASoQ5WBBiThgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=895098bf27&ccb=9-4&oh=00_AfsT9S1W3aHSqzsdLhaZBsd0xEu7CrAWy8nPjO3lDlAskw&oe=698BA9BE&_nc_sid=10d13b",
+      "caption": "#ironia",
+      "metadata": {
+        "timestamp": "",
+        "likes": 0,
+        "comments": 0,
+        "filename": "reel_12_ironia_frasimotivazionali_università.mp4",
+        "localPath": "downloads/reel_12_ironia_frasimotivazionali_università.mp4"
+      },
+      "transcript": "",
+      "wordCount": 0,
+      "duration": 0.0,
+      "processingTime": 0.0,
+      "transcriptionSuccess": false,
+      "transcriptionError": "[Errno 2] No such file or directory: 'ffmpeg'",
+      "processedAt": "2026-02-09T12:18:50.935867"
+    },
+    {
+      "platform": "Instagram",
+      "reelUrl": "https://www.instagram.com/p/DT0HxjODBzn/",
+      "videoUrl": "https://scontent-atl3-3.cdninstagram.com/o1/v/t16/f2/m69/AQNUbxAFFVoHrqUs-H-uOg2S5JTFXoGAGlgFLqTbiuE4pnl3UcTyghl-Qc08Y6bvMIA6akrSuSB9AlOU-Jvzdm89.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=111&vs=2371562446603711_3443901514&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTHJFN0NTSzQwV3RLdmtHQVBaNDZzSjB5RVFEYnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzk2NDU5OEFCNkNENzdCRTE4QTM5MDEwMkRBMzkzMjk2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwAVAAAmmsGj6azPzj8VAigCQzMsF0BDGZmZmZmaGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX%2BB2XmnQEA&_nc_rid=f4f93e7909&ccb=9-4&oh=00_Aful8577IA8tAcxgECLqvl8_N1F07xhlbt-ahWFg9_5BLQ&oe=698B8E52&_nc_sid=10d13b",
+      "caption": "#ironia",
+      "metadata": {
+        "timestamp": "",
+        "likes": 0,
+        "comments": 0,
+        "filename": "reel_13_ironia_amico_casa.mp4",
+        "localPath": "downloads/reel_13_ironia_amico_casa.mp4"
+      },
+      "transcript": "",
+      "wordCount": 0,
+      "duration": 0.0,
+      "processingTime": 0.0,
+      "transcriptionSuccess": false,
+      "transcriptionError": "[Errno 2] No such file or directory: 'ffmpeg'",
+      "processedAt": "2026-02-09T12:18:50.935873"
+    },
+    {
+      "platform": "Instagram",
+      "reelUrl": "https://www.instagram.com/p/DTaQasPDKCF/",
+      "videoUrl": "https://scontent-det1-1.cdninstagram.com/o1/v/t16/f2/m69/AQM6pYd9FAJqGdp79UApHrE5R4kse-WPNJ1YrCkrWNDGLrUWKuBfCvM39MNkZEiGzMZqzShaPQBzzgGp8Br8_8_4.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=100&vs=1241595237860311_3457788020&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTnVza3lUa2hyRlIxRmNJQU5Lak4zSTRGSDF0YnNwVEFRQUYVAALIARIAFQIYR2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yNDQ5NDk0Nzc1NTIxNDE2XzkxNTgwNTcwMzM3ODQ1Mjg1MDAubXA0FQICyAESACgAGAAbABUAACbA0Iee%2FJ%2FWPxUCKAJDMywXQDvRqfvnbIsYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA%3D&_nc_rid=0dff6cdd86&ccb=9-4&oh=00_Aft3RHirc2HzOQH9fQVLiFS69OSKDQvBuavkpZv9K15KdA&oe=698BACD5&_nc_sid=10d13b",
+      "caption": "Tua mamma ha preferenze? #mamma❤️",
+      "metadata": {
+        "timestamp": "",
+        "likes": 0,
+        "comments": 0,
+        "filename": "reel_14_tua_mamma_preferenze.mp4",
+        "localPath": "downloads/reel_14_tua_mamma_preferenze.mp4"
+      },
+      "transcript": "",
+      "wordCount": 0,
+      "duration": 0.0,
+      "processingTime": 0.0,
+      "transcriptionSuccess": false,
+      "transcriptionError": "[Errno 2] No such file or directory: 'ffmpeg'",
+      "processedAt": "2026-02-09T12:18:50.935882"
+    },
+    {
+      "platform": "Instagram",
+      "reelUrl": "https://www.instagram.com/p/DTkn3wUjO-Y/",
+      "videoUrl": "https://scontent-lax3-1.cdninstagram.com/o1/v/t16/f2/m69/AQO6n1V1SBA4AGcL3t5q7lrDIxorx09C3z3lCR_pkqmaiwduqfeSyhsJ-WvhmcvnkPF1x1OJygI5qXUyJIaPwAze.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=102&vs=4208094736095211_3302989755&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRzZlMUNTQ2syRTBvQ1VEQU92eTZfNnNVTmtsYnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzcyNDdDN0QyMzg3OUQ0MkJEQjlBNzgzOEM4OTAwN0I0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwAVAAAmmvi%2BzYmjzj8VAigCQzMsF0BFXdLxqfvnGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX%2BB2XmnQEA&_nc_rid=c276702a15&ccb=9-4&oh=00_Afug8h6DM-si0jWtppwoxIJVWg9De3MC6tuGEr39ARTUhg&oe=698BA70C&_nc_sid=10d13b",
+      "caption": "#ironia #frasimotivazionali #madre #mamma❤️",
+      "metadata": {
+        "timestamp": "",
+        "likes": 0,
+        "comments": 0,
+        "filename": "reel_15_ironia_frasimotivazionali_madre.mp4",
+        "localPath": "downloads/reel_15_ironia_frasimotivazionali_madre.mp4"
+      },
+      "transcript": "",
+      "wordCount": 0,
+      "duration": 0.0,
+      "processingTime": 0.0,
+      "transcriptionSuccess": false,
+      "transcriptionError": "[Errno 2] No such file or directory: 'ffmpeg'",
+      "processedAt": "2026-02-09T12:18:50.935892"
+    },
+    {
+      "platform": "Instagram",
+      "reelUrl": "https://www.instagram.com/p/DUInfNvjKrf/",
+      "videoUrl": "https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f2/m86/AQNIEb9Ndq6LxsM8es3x5U15b6qGtQsmzItj1gfmqk_SHDGwxWELwjom26MwdRaZYSP2l0T8X5_JJKc81z91WQ1DKdr801RUn0hqkRw.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=108&vs=2372758213198798_1273852868&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zOTQ1NzY0NTg3RTEyQjNFOENCOTgyQjY4RDNENkY4MF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0M3NEZGRDkzOUREQjY4RTBEN0FGM0IxOThCQjEwRUExX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwAVAAAmmqn1nL6Lzz8VAigCQzMsF0A5RBiTdLxqGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX%2BB2XmnQEA&_nc_rid=0da82141d7&ccb=9-4&oh=00_Afu58gTYmbmwFWSpoPLtkFN2lj8d404KD-RlUdI0fIq8TA&oe=698B9F15&_nc_sid=10d13b",
+      "caption": "#ironia",
+      "metadata": {
+        "timestamp": "",
+        "likes": 0,
+        "comments": 0,
+        "filename": "reel_16_ironia_frasimotivazionali_amico.mp4",
+        "localPath": "downloads/reel_16_ironia_frasimotivazionali_amico.mp4"
+      },
+      "transcript": "",
+      "wordCount": 0,
+      "duration": 0.0,
+      "processingTime": 0.0,
+      "transcriptionSuccess": false,
+      "transcriptionError": "[Errno 2] No such file or directory: 'ffmpeg'",
+      "processedAt": "2026-02-09T12:18:50.935898"
+    },
+    {
+      "platform": "Instagram",
+      "reelUrl": "https://www.instagram.com/p/DTSkBRJDBmu/",
+      "videoUrl": "https://scontent-lga3-3.cdninstagram.com/o1/v/t16/f2/m86/AQOSwEgze1_qYeKq3Qe5cKqAk01pOycobaCs0DKvBdsbMSML9E05Jqn8vX2xLLcZM0CEbNjNnesWjersKDe-u3I-f_afk0-9nGEY6JY.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=106&vs=2056575555182348_1247032412&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zQzQ5NEJFODY4Njk3NDRBQTBEQUMzOUNBOUFBMzJBM192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTUo4WnlTZFVYeDdCMklGQUVXQkJscXNNY2hIYnN0VEFRQUYVAgLIARIAKAAYABsAFQAAJprj1Laf9M0%2FFQIoAkMzLBdAQ9U%2FfO2RaBgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=9b063957b3&ccb=9-4&oh=00_AfuAnrSi8J1hLz7zI32gqdI8XLoBI_xr8L8WmUW9hZcPhQ&oe=698BBC5A&_nc_sid=10d13b",
+      "caption": "#ironia",
+      "metadata": {
+        "timestamp": "",
+        "likes": 0,
+        "comments": 0,
+        "filename": "reel_17_ironia_frasimotivazionali_appuntamento.mp4",
+        "localPath": "downloads/reel_17_ironia_frasimotivazionali_appuntamento.mp4"
+      },
+      "transcript": "",
+      "wordCount": 0,
+      "duration": 0.0,
+      "processingTime": 0.0,
+      "transcriptionSuccess": false,
+      "transcriptionError": "[Errno 2] No such file or directory: 'ffmpeg'",
+      "processedAt": "2026-02-09T12:18:50.935903"
+    },
+    {
+      "platform": "Instagram",
+      "reelUrl": "https://www.instagram.com/p/DTQAsfzjMdR/",
+      "videoUrl": "https://scontent-iad3-1.cdninstagram.com/o1/v/t16/f2/m86/AQPFeW8Ru_dg2Xd3lef_EPof_-THqqYZod3SrNPgHoVaVVbEVY7pV0z8aUSXPh1ZEovKcVz8j9sIwjxB4zOdeWIS6tObnxu2ZxpEvAI.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=110&vs=1220342420032971_3928492659&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yMDQ2RTYwQ0ZFNzhFQkRGNkU5MDRBRjM0QUFFMkU4QV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTXY2WmlSNUpUcXZqU0lFQUxpZzZlZlhMLXA1YnN0VEFRQUYVAgLIARIAKAAYABsAFQAAJprq87n%2B7c0%2FFQIoAkMzLBdAQe7ZFocrAhgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=6ed644e811&ccb=9-4&oh=00_AfusckD-_bxQ63cC0RtPQD7M4DwaBTPzTaLLiOiKiJ_gOg&oe=698B8F76&_nc_sid=10d13b",
+      "caption": "#ironia",
+      "metadata": {
+        "timestamp": "",
+        "likes": 0,
+        "comments": 0,
+        "filename": "reel_18_ironia_frasimotivazionali_scuola.mp4",
+        "localPath": "downloads/reel_18_ironia_frasimotivazionali_scuola.mp4"
+      },
+      "transcript": "",
+      "wordCount": 0,
+      "duration": 0.0,
+      "processingTime": 0.0,
+      "transcriptionSuccess": false,
+      "transcriptionError": "[Errno 2] No such file or directory: 'ffmpeg'",
+      "processedAt": "2026-02-09T12:18:50.935909"
+    },
+    {
+      "platform": "Instagram",
+      "reelUrl": "https://www.instagram.com/p/DTxbNbDDE2p/",
+      "videoUrl": "https://instagram.fcre1-1.fna.fbcdn.net/o1/v/t16/f2/m69/AQPK6Ob9zc2-IKMugEha0qMd-MUmRSiliA9O0M4mvuiH663jdnBYHiuvCSSw1-dikiyWZZjbdQ55cUP012BbEI4Y.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNTc2LmJhc2VsaW5lIn0&_nc_cat=105&vs=1903814663547325_2038044451&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRlNZMUNTZ1YyTDd3M29HQUtZaGxuaTZkamR4YnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0MwNDQ2NDM5RENBNTZDMEQwNjY1OTk4N0QyRUM4MUI0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwAVAAAmmtL2jMLHzj8VAigCQzMsF0BBBDlYEGJOGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX%2BB2XmnQEA&_nc_rid=1404db5e47&ccb=9-4&oh=00_Afsw6uB87YxqeWW1URi42mQV3TV05jfa0aDw5ASfno-gew&oe=698BA2EE&_nc_sid=10d13b",
+      "caption": "Ebbene sì due repost",
+      "metadata": {
+        "timestamp": "",
+        "likes": 0,
+        "comments": 0,
+        "filename": "reel_19_ebbene_due_repost.mp4",
+        "localPath": "downloads/reel_19_ebbene_due_repost.mp4"
+      },
+      "transcript": "",
+      "wordCount": 0,
+      "duration": 0.0,
+      "processingTime": 0.0,
+      "transcriptionSuccess": false,
+      "transcriptionError": "[Errno 2] No such file or directory: 'ffmpeg'",
+      "processedAt": "2026-02-09T12:18:50.935920"
+    },
+    {
+      "platform": "Instagram",
+      "reelUrl": "https://www.instagram.com/p/DTscD4tjOna/",
+      "videoUrl": "https://scontent-mia5-1.cdninstagram.com/o1/v/t16/f2/m69/AQMlLq2PYahrCuiJIk8Pf0GnJN52h8Cbc1GgHf1explRn2gA5o2oHp7FdjAXsRr2eDqmJZO8M1dTDLNnIHDv-PGd.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNTc2LmJhc2VsaW5lIn0&_nc_cat=102&vs=1419972859818426_4209687551&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRnNkd3lRd1dSTFpRREVJQUs3RUNaN0dPQlFVYnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzhGNEQ5RDdBMjRCODNCNkUwM0Y4NjZFQ0I4MTYyRDlCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwAVAAAmmrSUg%2Fu5zj8VAigCQzMsF0A3qn752yLRGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX%2BB2XmnQEA&_nc_rid=f61d0a793a&ccb=9-4&oh=00_AfulBXa6lljrjqW37OnpVsLEBEiPkk2Dn66YiWVguRYNZA&oe=698B8791&_nc_sid=10d13b",
+      "caption": "#ironia",
+      "metadata": {
+        "timestamp": "",
+        "likes": 0,
+        "comments": 0,
+        "filename": "reel_20_ironia_frasimotivazionali_scuola.mp4",
+        "localPath": "downloads/reel_20_ironia_frasimotivazionali_scuola.mp4"
+      },
+      "transcript": "",
+      "wordCount": 0,
+      "duration": 0.0,
+      "processingTime": 0.0,
+      "transcriptionSuccess": false,
+      "transcriptionError": "[Errno 2] No such file or directory: 'ffmpeg'",
+      "processedAt": "2026-02-09T12:18:50.935930"
+    }
+  ]
+}

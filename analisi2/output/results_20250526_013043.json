@@ -1,0 +1,31 @@
+{
+  "summary": {
+    "totalReels": 1,
+    "successfulTranscriptions": 1,
+    "failedTranscriptions": 0,
+    "totalWords": 1,
+    "totalDuration": 9.871519,
+    "processedAt": "2025-05-26T01:30:43.507475"
+  },
+  "reels": [
+    {
+      "platform": "Instagram",
+      "reelUrl": "https://www.instagram.com/p/DKAINY0pMiT/",
+      "videoUrl": "https://instagram.fuvf1-1.fna.fbcdn.net/o1/v/t16/f2/m86/AQNh0PrZKCJjT6PfYM5b6jeSVUysP94TdWbCIGKZm-HeSIXof3OXCWoX2VX89JE0bMEALkCHgXDOAEz7z1VrWdUHBgNv2O1pKiJeSOs.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=110&vs=737798868583985_2533788168&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xMDQxNDk0NTY4NDc2QTE0OEVBRTE1QTU0OUMzQjI4Rl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRktsMEIxLThhUGNFd2NLQUpwTlhTbEl6aWRzYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJvzYz6T8v88%2FFQIoAkMzLBdAI73ztkWhyxgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=161beed825&ccb=9-4&oh=00_AfI141_z0fUj3-9mBuVgumr-0NMqfA6ACGsrn53oSHMTjg&oe=68352AE3&_nc_sid=10d13b",
+      "caption": "But can you count the skips? 🪨😮 “To be a good rock skipper, you need some good skipping rocks, some calm water, lots of practice to build up your arm strength and a bit of luck,” says @rockskippingpro (Kyle Graff), a water resource engineer and avid rock skipper living in California. “Rocks are supposed to sink, so there’s something very satisfying about being able to make them float on the water, even if it only lasts for a handful of seconds.” Video by @rockskippingpro",
+      "metadata": {
+        "timestamp": "",
+        "likes": 0,
+        "comments": 0,
+        "filename": "reel_01_can_you_count.mp4",
+        "localPath": "downloads/reel_01_can_you_count.mp4"
+      },
+      "transcript": "you",
+      "wordCount": 1,
+      "duration": 9.871519,
+      "processingTime": 3.3821568489074707,
+      "transcriptionSuccess": true,
+      "processedAt": "2025-05-26T01:30:43.507458"
+    }
+  ]
+}

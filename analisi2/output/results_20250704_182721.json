@@ -1,0 +1,202 @@
+{
+  "summary": {
+    "totalReels": 10,
+    "successfulTranscriptions": 10,
+    "failedTranscriptions": 0,
+    "totalWords": 1350,
+    "totalDuration": 641.0233760000001,
+    "processedAt": "2025-07-04T18:27:21.111504"
+  },
+  "reels": [
+    {
+      "platform": "Instagram",
+      "reelUrl": "https://www.instagram.com/p/DKt7VnYtVUR/",
+      "videoUrl": "https://scontent-lga3-1.cdninstagram.com/o1/v/t16/f2/m86/AQOQUbHpWYhjSZ_vV_Gwd43Vn4NubC9tEkILDQGMFLC-sGCUP7iQ73aJcYRcGmkLy-lm_rqk5KiheX-iyxN0mLjgrRe6gZ3RTkF3r9s.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=111&vs=1109450451216900_1238718860&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9EMDRFOTY3RUJFMDY1ODMyQUM3MTkxRTBERjYyOEI5Nl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRzRwS2g3NjJMcGlmVE1DQUtTX2dvcGFsWTVCYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJvaZv52HydA%2FFQIoAkMzLBdAVnMzMzMzMxgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=035abd1416&ccb=9-4&oh=00_AfOQiVcyr3IiP6XZWZu1FnOfCtdNd237kgVkFqxjUaCeSw&oe=6869E9F6&_nc_sid=10d13b",
+      "caption": "Il Canada va ancora a fuoco. Oltre 220 roghi attivi, su un’area di 20mila ettari e noi, a 7.000 chilometri di distanza, dall’altra parte dell’oceano, possiamo vedere chiaramente quanto non esista davvero un “altrove” abbastanza lontano da non essere toccato da eventi naturali di tale portata. Cosa ci insegna questa ennesima tragedia umana e ambientale?",
+      "metadata": {
+        "timestamp": "",
+        "likes": 0,
+        "comments": 0,
+        "filename": "reel_01_canada_ancora_fuoco.mp4",
+        "localPath": "downloads/reel_01_canada_ancora_fuoco.mp4"
+      },
+      "transcript": "Ha chiari capitato anche a voi in questi giorni di alzare lo sguardo al cielo e notare qualche cosa di strano, un colore insolito, giallastro, ma oltre l'attigenosa che vela al sole e oscura al bluto. Da Torino e dove mi trovo adesso per il film festival cinema ambiente fino a tutta la penura padana questo fenomeno è diventato, almeno da metamaggio, sempre più evidente. Ma vi sei dei chiesti e da dove arrivi tutto questo? Quello che vediamo sopra le nostre testa è fumo, fumo che arriva ad oltre settemila chilometri di distanza, fumo degli incendi che stanno devastando le foreste del Canada sull'altra spondo dell'atlantico. più di duecento incendi attivi oltre i trentamila persone evacuate i milioni di persone costrette a casa per l'aria in respirabile. Questa è una tragedia ambientale climatica e una tragedia umana. Ecco, se non fosse per la distruzione che porta con sé, Sarebbe quasi un fenomeno affascinante, un chiaro e inequivocabile segnale. pianeta ci sta parlando ancora una volta, sta cercando di ricordarci una verità semplice, ma troppo spesso è dimenticata. ciò che accade in un luogo remoto, tocca anche noi, in una maniera o nell'altra, non ci sono altrove. l'aria non ha confini, clima non conosce confini. La terra è un unico sistema vivente. Quando una parte del pianeta va a fuoco, nessuno resta davvero al sicuro.",
+      "wordCount": 225,
+      "duration": 89.8,
+      "processingTime": 19.568195104599,
+      "transcriptionSuccess": true,
+      "processedAt": "2025-07-04T18:27:21.111330"
+    },
+    {
+      "platform": "Instagram",
+      "reelUrl": "https://www.instagram.com/p/DJjTqQ9tdEW/",
+      "videoUrl": "https://instagram.flas1-2.fna.fbcdn.net/o1/v/t16/f2/m86/AQNnMoRpN9AiNXVRX7WQBIsqY4ktZgiUAE1JxvppqN3Ua4ackkdovS8XeN2Fj28dC_lNLKaIOCfA8nGl25DB99MgzI3sr7LdYTtwPIg.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=101&vs=1338203527477715_3980204221&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9CRDRGRDFFQzIzODlGNEQ1NDkzNDZGN0FDOUMxNTZCOF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSGZCbngzOURyMHgxWWdFQVBzbzMtWUlOOVVPYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJvbf5sWH9c4%2FFQIoAkMzLBdATIzMzMzMzRgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=0170351e9c&ccb=9-4&oh=00_AfOOelQlNi85KxyAavoB2aRjRghygxY0nWizc96QbFHbVA&oe=6869F168&_nc_sid=10d13b",
+      "caption": "Dal 5 al 7 giugno a Milano si terrà l’edizione 2025 del Green&Blue Festival. Siete tutti invitati. In bio trovate il link per registrarvi.",
+      "metadata": {
+        "timestamp": "",
+        "likes": 0,
+        "comments": 0,
+        "filename": "reel_02_dal_giugno_milano.mp4",
+        "localPath": "downloads/reel_02_dal_giugno_milano.mp4"
+      },
+      "transcript": "Quattrocento venti come la concentrazione attuale di co-two in atmosfera oppure zero come l'emissione di gas sera globali entro il 2050. Oppure ancora trenta come la percentuale degli oceani delle terremerze da proteggere entro il 2030. ciò o sino Alex Bellini e no non sto dando i numeri, ti sto invitando al Green and Blue Festival, il festival di repubblica che si terrà dal cinque al sette giugno a Milano presso il museo della scienza della tecnologia. Questanno il festival si pone l'obiettivo di individuare i numeri chiave per fotografia. E al tempo stesso fissare gli obiettivi necessari e garantire un futuro ai suoi abitanti. Oltre me ci saranno ospiti eccezionali io spero di incontrare i mio mito d'infanzi all'esploatore e aviatore Bertram Picard. I festival come sempre è gratuito, ma io ti consiglio di registrarti. , prima di lasciarci qui nei commenti, scrivimi quale è secondo il tuo parere il numero che identifica l'attuale stato di salute della terra.",
+      "wordCount": 160,
+      "duration": 57.1,
+      "processingTime": 13.206517934799194,
+      "transcriptionSuccess": true,
+      "processedAt": "2025-07-04T18:27:21.111346"
+    },
+    {
+      "platform": "Instagram",
+      "reelUrl": "https://www.instagram.com/p/DKh0Kv2tTmz/",
+      "videoUrl": "https://instagram.fpet3-1.fna.fbcdn.net/o1/v/t16/f2/m86/AQMwRKN_sbEBSXljdwCsynp76liNTz5UlxF4ORHNopo2Y1IPlD9blEMVWsnY8X5FCiiajrZqg-XTMvQ-fA7zPhePPd7XF3gpLs8gSis.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=107&vs=2652800878242842_1838157764&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85NTQ4MTFBMzNFQUQ0RTk3ODE4MjI2MEQ3N0IxMTM5M192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTEd2RUI0SUI3Q2lKcUlDQUlEZlVvc1BhQlVnYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJsqpzZCrnu4%2FFQIoAkMzLBdARHMzMzMzMxgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=f34126dd64&ccb=9-4&oh=00_AfOK0G-SR_JxUSLyj-8O33WsYo-RyBCwudWqI4hEDIJJ9Q&oe=6869F828&_nc_sid=10d13b",
+      "caption": "“Il problema dell’ambiente è un problema di relazioni” con se stessi, con gli altri, con il pianeta. Una riflessione potente di @alexbellini_alone sul palco del Green&Blue Festival 2025, dove ha portato il suo punto di vista da esploratore e divulgatore. Esperienze estreme, viaggi oltre i confini e un impegno costante per raccontare la fragilità della Terra 🌱 Il Green&Blue Festival continua anche il 6 e 7 Giugno dal Museo Scienza e Tecnologia di Milano.",
+      "metadata": {
+        "timestamp": "",
+        "likes": 0,
+        "comments": 0,
+        "filename": "reel_03_problema_dell_ambiente.mp4",
+        "localPath": "downloads/reel_03_problema_dell_ambiente.mp4"
+      },
+      "transcript": "Il problema dell'ambiente, il problema dell'inquinamento, il problema della classica, non è forse neanche totalmente un problema umano. è un problema di relazione, la relazione che degli uomini con le cose stesse, gli uomini con altri uomini, gli uomini con l'ambiente. E quindi, se potessi con una banchetta magica, trovare qualcosa mi piacirebbe scoprire persone intente a ripristinare alcune relazioni. Rilevare la relazione con le cose. Ripensare la nostra relazione con le cose. Forse qualche cosa di utile.",
+      "wordCount": 78,
+      "duration": 40.9,
+      "processingTime": 8.20685076713562,
+      "transcriptionSuccess": true,
+      "processedAt": "2025-07-04T18:27:21.111375"
+    },
+    {
+      "platform": "Instagram",
+      "reelUrl": "https://www.instagram.com/p/DLhLFLnNMbF/",
+      "videoUrl": "https://scontent-lax3-2.cdninstagram.com/o1/v/t16/f2/m86/AQNUFM-C8WVdSmxzFlZib0hWhgZhdJlGuxYzmSbLUwLheWLrscMGYWgOmpElGqdu0RdgWN2Hgs7TT-HbU44CqlalUcgd11ZjxwzKvIk.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=101&vs=1099046535455382_792908562&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84QjQyNTNFOUJDRTM2NEY0NDRBNjdGODZGOEUxMDQ5RV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRG9xZXg0RUd1RERFRkVIQU44MHRBYkdGRkVhYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJvaY7buP19E%2FFQIoAkMzLBdAUwo9cKPXChgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=5bd76e7498&ccb=9-4&oh=00_AfPRos8YGnZ6ip7fxzU3muSPCiK9NIyHv1KgrU3sUIJeLQ&oe=6869E9BC&_nc_sid=10d13b",
+      "caption": "Continua l’avventura festivaliera per il nostro documentario #beyond . Domani 1 luglio sarà proiettato al @nuovimondifestival , nel Distretto culturale MontagnaFutura, nei comuni di Rittana, Valloriate, Roccasparvera e Maiola (CN). Programma e biglietti su @nuovimondifestival.",
+      "metadata": {
+        "timestamp": "",
+        "likes": 0,
+        "comments": 0,
+        "filename": "reel_04_continua_avventura_festivaliera.mp4",
+        "localPath": "downloads/reel_04_continua_avventura_festivaliera.mp4"
+      },
+      "transcript": "Mi chiamo Alex Bellini, sono un esploratore. Nel 2017 ha traversato il più grande ghiaccioio d'Europa, il Batmajokul, in Islanda. Mai come allora ho temuto di perdere la vita. Mai come allora ci sono andato così vicino. Nel 2025, otto anni dopo, ho vertito l'esigenza di tornarsi su quei luoghi, per cercare delle risposte e forse anche per andare oltre. .",
+      "wordCount": 61,
+      "duration": 76.16,
+      "processingTime": 9.58778429031372,
+      "transcriptionSuccess": true,
+      "processedAt": "2025-07-04T18:27:21.111394"
+    },
+    {
+      "platform": "Instagram",
+      "reelUrl": "https://www.instagram.com/p/DJycTgbNJ3E/",
+      "videoUrl": "https://instagram.fvga8-1.fna.fbcdn.net/o1/v/t16/f2/m86/AQNgv3nqmo4JlbCB6NwpZVADQ1FFgPrJu31KAVm5Rmi-q9o1OMKDJyZNDgQw0FbLbzgRcXsZ4tSSP3cpho1kuWyFPCG6ygOcYGvQtP4.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=108&vs=2370094860031502_1105191835&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83MjQyM0Q5OTEwMTcxNTdENjI3RTZDRUI2Mjk3MzdCNl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSTU1dHgzYlpFdnhtakFDQUduY2dGNDhRWHc2YnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJvb6rpCSns8%2FFQIoAkMzLBdAUkAAAAAAABgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=6e4cd0da0f&ccb=9-4&oh=00_AfOkni2MuE9f0M7RDyZ62IFpBB6nGFyE6m66sSbOIoD9JA&oe=6869CC40&_nc_sid=10d13b",
+      "caption": "Tra pochi mesi, i leader mondiali si incontreranno a Ginevra per l’ultimo round di negoziati sul Trattato Globale contro l’Inquinamento da Plastica. Per questo abbiamo voluto rendere visibile il problema e coinvolgere, in modo creativo, un pubblico nuovo in un appello concreto: mettere un limite alla produzione globale di plastica. Se ti stai chiedendo cosa puoi fare, inizia da qui: condividi questo reel. #Eurovision2025Basel #UnitedByMusic #ESC2025 #EurovisionSongContest #ESC #Eurovision #Globa...",
+      "metadata": {
+        "timestamp": "",
+        "likes": 0,
+        "comments": 0,
+        "filename": "reel_05_tra_pochi_mesi.mp4",
+        "localPath": "downloads/reel_05_tra_pochi_mesi.mp4"
+      },
+      "transcript": "siamo su Reno, uno dei fiumi più inquinati di microplastica del mondo o quanto meno d'Europa, sto navigando a bordo di questa zattara che ho soprannominato contichi in ricordo del famoso contichi dell'Oceano Pacifico per sensibilizzare persone sull'impatto della plastica e in particolare della microplastica, sugli ecosistiemi acquatici, ma chiaramente anche sulla salute dell'estermano e per spingere, incoraggiare, incentivare i decisioni politici che si incontreranno a Ginevra, tra poco più di uno. per il global plastic treaty, finalmente, ma volta per tutte, mettero un tetto massimo alla produzione di plastica annuale. Questo è un viaggio simbolico per portare a galla il problema della plastica perché molti frammenti di plastica vanno a fondo quindi scompaiono dagli occhi e dalle cossenze delle persone. Su questa zattera fatta di bambu e di bottili di plastica vogliamo proprio portare a galla far vedere e rendere visibile questo problema che affligge ormai tutti gli ecosistemi. Let me go, I'm better or I'm on the floor, I'm floating on the floor, I'm holding on to you.",
+      "wordCount": 170,
+      "duration": 73.0,
+      "processingTime": 15.72450590133667,
+      "transcriptionSuccess": true,
+      "processedAt": "2025-07-04T18:27:21.111429"
+    },
+    {
+      "platform": "Instagram",
+      "reelUrl": "https://www.instagram.com/p/DJjlQPqtdDw/",
+      "videoUrl": "https://instagram.fsjp7-1.fna.fbcdn.net/o1/v/t16/f2/m86/AQN6zD-OBFrsx0RFD-cUcuGUs1t0t4WDBM-P568ucG_-V_If4OQMAP4Q_jYSXEmOwBaQX6aC8VpJWnyG5RtKc1_scvuAJwQ5tndnHwY.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=102&vs=1033333824930391_3872183906&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC80RDREQkQxMUZFNzVFRDJDQzIyQjMyMjFEQzUyMkVBNl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRXdmb3gxZU5YLUx2MklDQUlrZWhINUxCMVpsYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJvbUibry9c4%2FFQIoAkMzLBdATIzMzMzMzRgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=d35e900d6a&ccb=9-4&oh=00_AfMkbH4ON5iwub3O83v7UQ1VLq-ApNzugGCTtW13asot5A&oe=6869E6A1&_nc_sid=10d13b",
+      "caption": "Dal 5 al 7 giugno a Milano si terrà l’edizione 2025 del Green&Blue Festival. Siete tutti invitati. In bio e nelle stories trovate il link per registrarvi.",
+      "metadata": {
+        "timestamp": "",
+        "likes": 0,
+        "comments": 0,
+        "filename": "reel_06_dal_giugno_milano.mp4",
+        "localPath": "downloads/reel_06_dal_giugno_milano.mp4"
+      },
+      "transcript": "Quattrocento venti come la concentrazione attuale di co-two in atmosfera oppure zero come l'emissione di gas sera globali entro il 2050. Oppure ancora trenta come la percentuale degli oceani delle terremerze da proteggere entro il 2030. ciò o sino Alex Bellini e no non sto dando i numeri, ti sto invitando al Green and Blue Festival, il festival di repubblica che si terrà dal cinque al sette giugno a Milano presso il museo della scienza della tecnologia. Questanno il festival si pone l'obiettivo di individuare i numeri chiave per fotografia. E al tempo stesso fissare gli obiettivi necessari e garantire un futuro ai suoi abitanti. Oltre me ci saranno ospiti eccezionali io spero di incontrare i mio mito d'infanzi all'esploatore e aviatore Bertram Picard. I festival come sempre è gratuito, ma io ti consiglio di registrarti. , prima di lasciarci qui nei commenti, scrivimi quale è secondo il tuo parere il numero che identifica l'attuale stato di salute della terra.",
+      "wordCount": 160,
+      "duration": 57.1,
+      "processingTime": 13.342746019363403,
+      "transcriptionSuccess": true,
+      "processedAt": "2025-07-04T18:27:21.111439"
+    },
+    {
+      "platform": "Instagram",
+      "reelUrl": "https://www.instagram.com/p/DJWoL6ktddF/",
+      "videoUrl": "https://instagram.fpoa35-1.fna.fbcdn.net/o1/v/t16/f2/m86/AQPq0HIXxgs51xCXY3xk_uoFcyaYp91429jmvTr-9jQNR2X_4PFNjwTnqR4oXtseaSZwfqwH06L_QQP0jWmiojSjewwZUeViIYcRe78.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=100&vs=978216397472361_1657067443&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82NzQ1QTJBQTQwMzRDMzJGNTI0RDQ4RDc0NTgwQTg4NV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQ3I0a2gzYklsQkdMM2NDQU5oSzNOOU1PODRjYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJvaZ3LqC0c4%2FFQIoAkMzLBdAQY9cKPXCjxgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=cdbf5afe69&ccb=9-4&oh=00_AfP7Lyd2uoNk2x8B5Uu226upB3S8xy8aYRm66XKd1BiSRg&oe=6869D48A&_nc_sid=10d13b",
+      "caption": "Guarda il film completo al link in bio",
+      "metadata": {
+        "timestamp": "",
+        "likes": 0,
+        "comments": 0,
+        "filename": "reel_07_guarda_film_completo.mp4",
+        "localPath": "downloads/reel_07_guarda_film_completo.mp4"
+      },
+      "transcript": "Il senso di questo avventuro è una lasca non è di fare una gara sprint. Il senso di questo progetto è una lasca e di raccontare come cambia la lasca quando cambia il clima. La lasca è lo stato americano che si sta riscaldando più velocemente di qualunque altro e per questo è una sentinella del cambiamento climatico, il famoso canarino da migniera che ci ha visto in anticipo sugli effetti globali del suo riscaldamento. qualche giorno più tardi raggiungiamo il villaggio di un alaclit. Mi racconta quali sono le condizioni attuali nella sua comunità.",
+      "wordCount": 95,
+      "duration": 35.120665,
+      "processingTime": 9.005120038986206,
+      "transcriptionSuccess": true,
+      "processedAt": "2025-07-04T18:27:21.111445"
+    },
+    {
+      "platform": "Instagram",
+      "reelUrl": "https://www.instagram.com/p/DIyPow2tkz7/",
+      "videoUrl": "https://scontent-mba2-1.cdninstagram.com/o1/v/t16/f2/m86/AQPRgzPRWpLG6ZSjlNk4dqr5OhFXxTmf6KSMslHTPX7a-I-IqSgAJD5CvbqNCzeVRLKLgGo3pYm6gnazil1gIF4jr54aidI1PRfvOJo.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=106&vs=4036185423324343_2257103600&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9BQzQzODZFNzY5RDg2M0YyMjcyODhERDlBQTAwQjY4Rl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HS3gwU0IwckhoMHFrN2tHQUg1XzlMckpmR2dtYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJvbo6J2W7s0%2FFQIoAkMzLBdAUwzMzMzMzRgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=1a03200f91&ccb=9-4&oh=00_AfMIhomaNwfyOMJHqVwVzs7yO6zgJMOpvGiSmwDbWx74XQ&oe=6869D133&_nc_sid=10d13b",
+      "caption": "Nel 2017 ho attraversato il Vatnajökull, in Islanda. È stata, senza dubbio, l’esperienza in cui sono andato più vicino a perdere la vita. A gennaio 2025 ho scelto di tornare in quei luoghi per provare a rispondere alla domanda perché l’essere umano esplora? Da quest’idea ne è nata una riflessione sul senso dell’esplorazione e sul concetto di limite, ma anche sulla rinuncia, sulla perseveranza e sulla curiosità che ci muove. Anteprima nazionale in programma al @trentofilmfestival il giorno 26 apr...",
+      "metadata": {
+        "timestamp": "",
+        "likes": 0,
+        "comments": 0,
+        "filename": "reel_08_nel_2017_attraversato.mp4",
+        "localPath": "downloads/reel_08_nel_2017_attraversato.mp4"
+      },
+      "transcript": "Mi chiamo Alex Bellini, sono un esploratore. Nel 2017 ha traversato il più grande ghiaccioio d'Europa, il Batmajokul, in Islanda. Mai come allora ho temuto di perdere la vita. Mai come allora ci sono andato così vicino. Nel 2025, otto anni dopo, ho vertito l'esigenza di tornarsi su quei luoghi, per cercare delle risposte e forse anche per andare oltre. .",
+      "wordCount": 61,
+      "duration": 76.2,
+      "processingTime": 9.522722721099854,
+      "transcriptionSuccess": true,
+      "processedAt": "2025-07-04T18:27:21.111471"
+    },
+    {
+      "platform": "Instagram",
+      "reelUrl": "https://www.instagram.com/p/DKe6lJbNuls/",
+      "videoUrl": "https://instagram.fruh2-1.fna.fbcdn.net/o1/v/t16/f2/m86/AQOsj2sRkArwasNYekJFt1TaqLtXOLmzRvfzOmsDHKkFcNT07INSJ1KYrKgv7wt057flEqJl4PnZ276J8P1Atu-n92nAv3YtUsm1PGQ.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=110&vs=1843446043167016_952216782&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9CMTQyQzFBNTEzNzFEOTc5ODUyMjRBRTRGQUY4NkFCQ192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HR2JTQng3clBZUDY3cjBEQU9jY3IyOXYxcHNRYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJqyiqZ2u7JRAFQIoAkMzLBdATR752yLQ5RgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=fcf92ac1e4&ccb=9-4&oh=00_AfN2xjww0D6a7TWJA85z3DX7W2rsu6e6nYw2nPC42HaD7w&oe=6869DFFF&_nc_sid=10d13b",
+      "caption": "\"It’s clear that we don’t live surrounded by many small oceans, but within one vast ocean system.\" @alexbellini_alone Explorer",
+      "metadata": {
+        "timestamp": "",
+        "likes": 0,
+        "comments": 0,
+        "filename": "reel_09_clear_don_live.mp4",
+        "localPath": "downloads/reel_09_clear_don_live.mp4"
+      },
+      "transcript": "Quella che più mi sta a cuore che, viaggiando in mare, sei lontano da tutti e lontano da tutto, ma per qualche ragione strana, misteriosa, ti senti connesso a tutto. Ti senti connesso alle persone che non vi sono più, ti senti connesso alle persone che non hai mai visto, ma che in qualche maniera diventano centrale nella tua esistenza. In mare, è chiaro e evidente con come non viviamo immersi in tanti piccoli oceani, ma in un grande sistema oceano che permette il movimento, il flusso delle correnti, del mare. E questa cosa mi torna spesso in mente perché anche nei momenti più di grande d'ispirazione io guardavo verso il cielo e mi sentivo connesso con tutto il resto, ma soprattutto mi sentivo allineato a qualche cosa di più grande di me.",
+      "wordCount": 133,
+      "duration": 58.242711,
+      "processingTime": 10.808388233184814,
+      "transcriptionSuccess": true,
+      "processedAt": "2025-07-04T18:27:21.111481"
+    },
+    {
+      "platform": "Instagram",
+      "reelUrl": "https://www.instagram.com/p/DKZOb5sNP9U/",
+      "videoUrl": "https://instagram.ftir2-1.fna.fbcdn.net/o1/v/t16/f2/m86/AQPDkBT6ExGWE-PabuX3x4sQBQ71RQmADpwq020njuf6GcwIr6NtkHHL0YuXpB6MKoadq5_z4dMgQNgUUGJw1-WEG55AOarAn14gzxQ.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=108&vs=1049792309961858_2419702659&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8wRTREQUUyNjYxQjM0MTdGMzhEMjJENjEwRUE3OEJBQV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSld2NmgwWGdjZm4wMFVDQUxsVkREbk5SNTVKYnFfRUFBQUYVAgLIARIAKAAYABsAFQAAJva5xubPjtA%2FFQIoAkMzLBdAU1mZmZmZmhgSZGFzaF9iYXNlbGluZV8xX3YxEQB1%2Fgdl5p0BAA%3D%3D&_nc_rid=a1d4124afa&ccb=9-4&oh=00_AfP6kMgelU9oFe5UicOaOvhQU0LgfUS4Sgc4J4VJlUymMw&oe=6869F265&_nc_sid=10d13b",
+      "caption": "Se il mental training è un tuo interesse, ho creato un canale Telegram fatto apposta per te. Trovi il link in bio 👋",
+      "metadata": {
+        "timestamp": "",
+        "likes": 0,
+        "comments": 0,
+        "filename": "reel_10_mental_training_tuo.mp4",
+        "localPath": "downloads/reel_10_mental_training_tuo.mp4"
+      },
+      "transcript": "Ciao amici, chi mi conosce da tempo, sa quanto sia profonda la mia passione per la preparazione mentale per le prestazioni sportive. È nata nel 2011 quando corsi attraverso gli Stati Uniti, supportato da un team straordinario dei professionisti, ed è cresciuta nel tempo prima come atleta e poi come consulente. Ciò che mi affascina di questa disciplina è lo stesso impulso che mi spinge verso l'esplorazione, ossia la curiosità di scoprire che cosa c'è dentro e che cosa c'è oltre i nostri limiti. Eppure qui sui miei canali, voi per brevità, voi per lasciare spazio agli altri miei due interessi, cioè l'esplorazione e la divulgazione, ho sempre praticato a condividere questa parte di me, questo mio interesse, ma col tempo capito che non dobbiamo per forza sacrificare una parte per far posto al resto. Così su consiglio di alcuni amici ho deciso ad aprire un nuovo spazio, tutto dedicato alla preparazione mentale, un canale Telegram, dove condividero spunti, tecniche e desidero. Esercizi per migliorare nello sport, ma forse è ancora più importante per crescere come persone. quindi, se questo tema ti interessa e vuoi approfondire o, semplicemente, ricevere qualche stimolo utile, ti invito ad iscriverti il link lo trovi in bio, noi ci vediamo presto. Ciao!",
+      "wordCount": 207,
+      "duration": 77.4,
+      "processingTime": 18.00485396385193,
+      "transcriptionSuccess": true,
+      "processedAt": "2025-07-04T18:27:21.111490"
+    }
+  ]
+}
